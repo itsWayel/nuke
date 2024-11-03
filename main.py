@@ -5,7 +5,7 @@ from discord import Permissions
 from colorama import Fore, Style
 import asyncio
 from webserver import keep_alive
-token = "ODg3MjkwODg5ODg4NzI3MTAw.YUCACQ.CNjbRQMbdA_Di0HbV8Zm3RtlhpE"
+token = "MTMwMjU3NzQxNjU2ODU3Mzk1Mw.GF5WqY.3aq44CgdmBijVA2cFxeYve-9CSCRRCpadVYno4"
 
 
 SPAM_CHANNEL =  ["Doraemon runs you" , "Get Banned" , "NUKED" , "oops Beamed","F IN CHAT Beamed You","Should Have Listened","Get beamed clowns","Nuked by Doraemon ","oops got nuked","I run you","Nuked by Doraemon","I run you","kinda got beamed by yourself"]
